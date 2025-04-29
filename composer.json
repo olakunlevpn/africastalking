@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/africastalking",
+    "name": "olakunlevpn/africastalking",
     "description": "This package makes it easy to send notifications via AfricasTalking with Laravel",
     "keywords": [
         "africastalking",
